@@ -1,0 +1,30 @@
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: url("https://wallpapers.com/images/hd/pixel-nature-svv57ofqk3wt8srx.jpg");
+}
+.PokedexImg{
+  background-image: url("https://github.com/JaynAP1/JavaScript_CorreJerxon/blob/main/Dia9/images/pokedex.png?raw=true");
+  background-position: center;
+  width: 500px;
+  height: 700px;
+  background-repeat: no-repeat;
+}
+.Button{
+  border: 2px solid black;
+  background-color: #e3e3e3;
+  padding: 1em 2.5em;
+  box-shadow: -2px 5px 2px  #6f6f6f;
+  border-radius: 7px;
+}
+.boxbuttons{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 35em;
+  margin-right: 2em;
+}
+
